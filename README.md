@@ -32,10 +32,11 @@ This project has been divided into two modules namely admin module and customer/
 **USER**
 
 ![home op_sem 1](https://github.com/user-attachments/assets/f7cd0fc5-78bc-4789-ad5e-b23ab4b10d60)
-![about op1](https://github.com/user-attachments/assets/f6dd14b8-1393-41e6-bdd1-c47b52784d7a)
-![review _sem](https://github.com/user-attachments/assets/a462d828-6478-448f-aaa7-a088887889a7)
 ![shop op_sem](https://github.com/user-attachments/assets/709556d1-6952-46ce-a5e9-c7777eee895d)
 ![order op_sem](https://github.com/user-attachments/assets/2fe6131a-c7f0-4b6d-8e30-6ed4396e803e)
 ![cart op](https://github.com/user-attachments/assets/753683c3-5431-485f-832d-db7c649519cc)
+![wish op1](https://github.com/user-attachments/assets/581c4c31-2314-4086-a528-ba097df390b4)
 ![checkout op](https://github.com/user-attachments/assets/2e56dbe0-bd30-4d0b-b6e0-db66ffe4e9b8)
+![about op1](https://github.com/user-attachments/assets/f6dd14b8-1393-41e6-bdd1-c47b52784d7a)
+![review _sem](https://github.com/user-attachments/assets/a462d828-6478-448f-aaa7-a088887889a7)
 ![contact op_sem](https://github.com/user-attachments/assets/c996b8a6-5a11-4316-abef-221abc6b6578)
