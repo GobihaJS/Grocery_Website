@@ -1,4 +1,4 @@
-## Groco
+![groco_logo](https://github.com/user-attachments/assets/647a509a-43f5-4e04-9122-72ea084639a6) ## Groco
 
 ## Project Description
 
