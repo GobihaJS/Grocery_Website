@@ -1,4 +1,4 @@
-**#Groco**
+#Groco
 
 **#Project Description**
 
