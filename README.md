@@ -23,6 +23,7 @@ This project has been divided into two modules namely admin module and customer/
 **ADMIN**
 
 ![admin op](https://github.com/user-attachments/assets/6d1575e0-c1d0-42c3-8b5d-86c0374afe1f)
+
 ![admin_order op](https://github.com/user-attachments/assets/fc374be8-5f08-479e-bc25-2c79aec67ba5)
 ![admin_product op](https://github.com/user-attachments/assets/3a3a7d60-4518-4bdd-ba7f-4fb69565ff8b)
 ![admin_user op](https://github.com/user-attachments/assets/08748f1a-f6f0-4738-b0bc-f75bc95b3bb1)
@@ -33,5 +34,8 @@ This project has been divided into two modules namely admin module and customer/
 ![home op_sem 1](https://github.com/user-attachments/assets/f7cd0fc5-78bc-4789-ad5e-b23ab4b10d60)
 ![about op1](https://github.com/user-attachments/assets/f6dd14b8-1393-41e6-bdd1-c47b52784d7a)
 ![review _sem](https://github.com/user-attachments/assets/a462d828-6478-448f-aaa7-a088887889a7)
-![shop op](https://github.com/user-attachments/assets/f2ff0354-8b71-4d72-8f29-e7e0c966d4a8)
 ![shop op_sem](https://github.com/user-attachments/assets/709556d1-6952-46ce-a5e9-c7777eee895d)
+![order op_sem](https://github.com/user-attachments/assets/2fe6131a-c7f0-4b6d-8e30-6ed4396e803e)
+![cart op](https://github.com/user-attachments/assets/753683c3-5431-485f-832d-db7c649519cc)
+![checkout op](https://github.com/user-attachments/assets/2e56dbe0-bd30-4d0b-b6e0-db66ffe4e9b8)
+![contact op_sem](https://github.com/user-attachments/assets/c996b8a6-5a11-4316-abef-221abc6b6578)
