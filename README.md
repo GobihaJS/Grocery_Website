@@ -1,4 +1,5 @@
 **#Groco**
+
 **#Project Description**
 
   This application is an Online Grocery Shopping website developed using HTML, CSS, PHP, JS and XMAPP. Admin and Customer modules are implemented. Admin can manage the goods as well as users online. Customer can check goods details, search and filter goods and manage shopping cart. Sessions, soft delete, pagination and inventory management features are implemented.
